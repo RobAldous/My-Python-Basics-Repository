@@ -1,10 +1,8 @@
-# My-Python-Basics-Repository
-
-## 📌 Python Project
+## Python Project
 
 This project was developed as part of a Data Technician bootcamp, focusing on building foundational Python programming skills and applying them to solve practical problems.
 
-### 💡 Key Skills Demonstrated
+### Key Skills Demonstrated
 
 - **Variables & Data Types**  
   Used variables to store and manage data efficiently, applying type casting to convert between data types (e.g., strings to integers) for accurate calculations and processing.
@@ -27,7 +25,7 @@ This project was developed as part of a Data Technician bootcamp, focusing on bu
   <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/8a1d2ee4-c28c-4dac-a631-4ccf6d3135e2" />
 
 
-### 🔧 Applied Example
+### Applied Example
 
 One key exercise completed was the **FizzBuzz problem**, where loops and conditional statements were combined to:
 - Iterate through a sequence of numbers  
@@ -35,14 +33,10 @@ One key exercise completed was the **FizzBuzz problem**, where loops and conditi
 - Apply logical rules to determine outputs  
 - Display results dynamically to the user
 
-### 📊 Outcome
+### Outcome
 
 Through this project, I developed the ability to:
 - Write structured and logical Python code  
 - Perform calculations and automate tasks  
 - Build interactive command-line applications  
 - Apply programming fundamentals to real-world scenarios  
-
----
-
-✨ This project represents my foundation in Python and my ability to solve problems using structured programming techniques.
